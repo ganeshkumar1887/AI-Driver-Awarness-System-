@@ -9,3 +9,6 @@ his project uses Artificial Intelligence (AI) and Computer Vision to monitor a d
 🎥 Real-time webcam monitoring
 
 Screenshots : - 
+## 🚗 AI Driver Awareness System
+
+![Driver Awareness System](driver awarness.webp)
